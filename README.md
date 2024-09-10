@@ -11,8 +11,8 @@ Hasil pelatihan dengan nilai terbaik memperoleh:
 - val_accuracy: 0.9644
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1175e95e-1b5a-483c-bf0c-22c56da5e943" alt="Nilai akurasi" width="500"/>
-  <img src="https://github.com/user-attachments/assets/9e13b5c0-c004-4c29-a020-bce9f8abab52" alt="Loss" width="500"/>
+  <img src="https://github.com/user-attachments/assets/1175e95e-1b5a-483c-bf0c-22c56da5e943" alt="Nilai akurasi" width="400"/>
+  <img src="https://github.com/user-attachments/assets/9e13b5c0-c004-4c29-a020-bce9f8abab52" alt="Loss" width="400"/>
 </p>
 
 *Plotting nilai akurasi dan loss pada pelatihan model.*
