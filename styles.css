@@ -1,0 +1,82 @@
+body {
+	font-family: 'Poppins', sans-serif;
+	background-color: #f8f9fa;
+	color: #333;
+	min-height: 75rem;
+	padding-top: 4.5rem;
+}
+
+.navbar {
+	background-color: #4CAF50;
+}
+
+.navbar-brand {
+	font-weight: 600;
+	color: white !important;
+	font-size: 1.5rem;
+}
+
+h2 {
+	font-weight: 600;
+	color: #4CAF50;
+}
+
+.btn-primary {
+	background-color: #4CAF50;
+	border-color: #4CAF50;
+}
+
+.btn-primary:hover {
+	background-color: #45a049;
+	border-color: #45a049;
+}
+
+.progress {
+	background-color: #e9ecef;
+}
+
+.progress-bar {
+	background-color: #4CAF50;
+}
+
+/* Custom file input styling */
+.custom-file-input {
+	display: none;
+}
+
+.custom-file-label {
+	display: inline-block;
+	width: 100%;
+	padding: 8px;
+	font-size: 1rem;
+	color: white;
+	background-color: #4CAF50;
+	border: none;
+	border-radius: 8px;
+	cursor: pointer;
+	text-align: center;
+	transition: background-color 0.3s ease;
+}
+
+.custom-file-label:hover {
+	background-color: #45a049;
+}
+
+#file-name {
+	font-size: 0.9rem;
+	margin-top: 10px;
+	color: #555;
+}
+
+#prediction-list {
+	color: #4CAF50;
+	font-size: 1.2rem;
+	list-style-type: decimal;
+	margin-left: 1.5rem;
+	padding: 0;
+}
+
+#prediction-list li:first-child {
+	font-weight: 630;
+	color: #45a049;
+}
