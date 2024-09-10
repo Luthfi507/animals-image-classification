@@ -1,0 +1,10 @@
+cavallo
+pecora
+elefante
+gatto
+scoiattolo
+gallina
+ragno
+mucca
+cane
+farfalla
